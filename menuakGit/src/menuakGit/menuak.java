@@ -57,27 +57,5 @@ public class menuak {
 				} catch (FileNotFoundException e) {
 					e.printStackTrace();
 				}
-				
-				
-							
-											
-				// comprobar que los arrays de Enero están bien rellenados
-				
-				System.out.println("Datos Enero");
-				
-				for (int j = 0; j < nombresEnero.length; j++) {
-					System.out.println(nombresEnero[j] + "" + numDesEnero[j] + "");					
-				}
-				System.out.println("Datos Julio");
-				
-		for (int j = 0; j < nombresJulio.length; j++) {
-					System.out.println(nombresJulio[j] + "" + numDesJulio[j] + "");				
-					
-			}
-				
-				
-	}
-
-}
 
 }
